@@ -89,6 +89,10 @@
       font-size: 14px;
   }
 
+  .deleted {
+      color: #FF0000;
+  }
+
   #container {
       width: 768px;
   }
